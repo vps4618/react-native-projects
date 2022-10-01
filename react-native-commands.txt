@@ -1,1 +1,3 @@
-install expo -> npm i -g expo-cli
+install expo globally -> npm i -g expo-cli
+
+initialize expo project -> expo init project-name
